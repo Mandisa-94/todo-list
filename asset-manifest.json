@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mandisa-94/todo-list/static/css/main.a63d1fd9.chunk.css",
+    "main.js": "/Mandisa-94/todo-list/static/js/main.50676857.chunk.js",
+    "main.js.map": "/Mandisa-94/todo-list/static/js/main.50676857.chunk.js.map",
+    "runtime-main.js": "/Mandisa-94/todo-list/static/js/runtime-main.5af30915.js",
+    "runtime-main.js.map": "/Mandisa-94/todo-list/static/js/runtime-main.5af30915.js.map",
+    "static/js/2.fa2cc6fb.chunk.js": "/Mandisa-94/todo-list/static/js/2.fa2cc6fb.chunk.js",
+    "static/js/2.fa2cc6fb.chunk.js.map": "/Mandisa-94/todo-list/static/js/2.fa2cc6fb.chunk.js.map",
+    "index.html": "/Mandisa-94/todo-list/index.html",
+    "static/css/main.a63d1fd9.chunk.css.map": "/Mandisa-94/todo-list/static/css/main.a63d1fd9.chunk.css.map",
+    "static/js/2.fa2cc6fb.chunk.js.LICENSE.txt": "/Mandisa-94/todo-list/static/js/2.fa2cc6fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5af30915.js",
+    "static/js/2.fa2cc6fb.chunk.js",
+    "static/css/main.a63d1fd9.chunk.css",
+    "static/js/main.50676857.chunk.js"
+  ]
+}
