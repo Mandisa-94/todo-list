@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+<div align="center" >
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="https://media.giphy.com/media/VxbP9tLeKzazm/giphy.gif" width="100%">
 
-## Available Scripts
+ <div>
 
-In the project directory, you can run:
+# Movies 🎬
 
-### `npm start`
+### Este sitio web te permitirá estar al día con los nuevos estrenos del cine, saber qué películas son las más populares y cuál las mejor puntuadas. También, al seleccionar una película, te mostrará año de estreno, una breve descripcion, género y trailer. Si ya tenés una peli en mente la podés encontrar en la sección "Search" introcudiendo su nombre en el campo de busqueda. 
+***
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Comenza a usarlo haciendo click [aquí](https://mandisa-94.github.io/proyecto-peliculas/)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+</br>
 
-### `npm test`
+***
+<br>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Conocé la vista de escritorio 
+![Imagen](./src/assets/screen-peliculas.png)
 
-### `npm run build`
+</br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+***
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Instalación ⚙
+#### Si querés clonar el repositorio seguí estos pasos:
+<img src="https://media.giphy.com/media/Y1MWS94fzGmaPneDzN/giphy.gif" width="30%" height="30%">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+ Entrar al [Repo](https://github.com/Mandisa-94/proyecto-peliculas)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+ Hacer click en Fork
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+ Darle click al boton de Code
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+ Copiar la url
 
-## Learn More
+ Desde tu terminal local posicionate en la carpeta donde lo vas a clonar
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+ Escribir el siguiente comando:
+```
+git clone <url>
+```
+ Entrar a la carpeta del proyecto y abrirlo en tu IDE y listo, ya vas a contar con el proyecto en tu pc.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+</br>
 
-### Code Splitting
+***
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Diseño 🎨
 
-### Analyzing the Bundle Size
+#### Para el diseño de la interfaz utilice el Framework [Ant Design](https://ant.design/).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+</br>
 
-### Making a Progressive Web App
+***
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Contacto 📱
 
-### Advanced Configuration
+[Gabriela Duran](https://www.linkedin.com/in/gabriela-duran94/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+***
+<br>
 
-### Deployment
+## Agradecimientos 💕
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+ Principalmente a la colega [Melina Cantamutto](https://www.linkedin.com/in/melina-luc%C3%ADa-cantamutto-35b8141b9/) por ayudarme a completar este proyecto, a nuestro profe [Jonh](https://github.com/Jonhks), a [Leydy](https://github.com/leydyk93) y a las chicas de la sexta generación de Frontend online de [Ada](https://adaitw.org/) 🧚🏻‍♀️ por su apoyo y compañerismo.
